@@ -1,4 +1,4 @@
-### Nameste  👋 floks sup!!
+### Nameste  👋 floks Sup!!
 
 <!--
 **imSanko/imSanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
