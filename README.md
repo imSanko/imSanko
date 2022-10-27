@@ -1,7 +1,7 @@
 ### Hello Folks sup !!!!!
 
-- 🔭 I’m currently working on WebD
-- 🌱 I’m currently learning FSD
+- 🔭 I’m Currently working on WebD
+- 🌱 I’m Currently learning FSD
 - 👯 I’m looking to collaborate on Being Intern
 - 🤔 I’m looking for help with learners FSD
 - 💬 Ask me about : In LinkedIn 
