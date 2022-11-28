@@ -1,4 +1,4 @@
-##  Sup folks, I’m Sanko aka Saptadeep Banerjee  
+##  Sup folks, I’m Sanko aka Saptadeep Banerjee.  
 👾 I’m interested in ... GCP 
 🌱 I’m currently learning ... Backend-WebD/Web3
 💞️ I’m looking to collaborate on ... New Java Projects ideas
