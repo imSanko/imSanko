@@ -1,6 +1,6 @@
 ##  Sup folks, I’m Sanko aka Saptadeep Banerjee..
 - 👾 I’m interested in ... GCP 
-- 🌱 I’m currently learning ... Backend-WebD/Web3
+- 🌱 I’m currently learning ... Backend-WebD & Web3
 - 🎗️ I’m looking to collaborate on ... New Java Projects ideas
 - 📫 How to reach me ... LinkedIn is always **ON FOR DM..
 ## DO HIT ME UP FOLLOW TO ENTHUST ME.
