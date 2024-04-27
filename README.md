@@ -1,4 +1,4 @@
-# <Your Name> | MLOPS Engineer
+# <Your Name> | ML Engineer
 
 ## About Me
 I am a passionate ML Engineer with a strong background in developing and deploying machine learning models for various applications. My expertise lies in leveraging cutting-edge techniques and frameworks to build robust and scalable AI solutions.
