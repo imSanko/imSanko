@@ -12,4 +12,8 @@ I am a passionate ML Engineer with a strong background in developing and deployi
 - **Cloud Platforms:** AWS, GCP, Azure
 
 ## Experience
-I have worked on various machine learning projects spanning diverse domains such as computer vision, natural language processing, predictive analytics, and recommendation systems. I am adept at handling end-to-end machine learning workflows, from data preprocessing and feature engineering to model training, evaluation, and deployment.
+As an **ML Engineer**, I have worked on various machine learning projects spanning diverse domains such as computer vision, natural language processing, predictive analytics, and recommendation systems. I am adept at handling end-to-end machine learning workflows, from data preprocessing and feature engineering to model training, evaluation, and deployment.
+
+As a **Product Engineer**, I have been involved in the entire product development lifecycle, collaborating with cross-functional teams to design, build, and launch innovative products. My focus has been on translating user needs into functional requirements, optimizing the user experience, and ensuring product quality and scalability.
+
+In my role as a **Developer Advocate Engineer**, I have fostered vibrant developer communities by creating educational content, conducting workshops, and evangelizing new technologies. I have a passion for sharing knowledge and empowering developers to build cutting-edge solutions.
