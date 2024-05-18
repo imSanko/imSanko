@@ -9,7 +9,7 @@ I am a versatile engineer with a strong background in the machine learning, prod
 - **Deep Learning:** Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformers.
 - **Data Processing:** Pandas, NumPy, SQL, and Postgresql.
 - **Containerization:** Docker, Kubernetes
-- **Cloud Platforms:** AWS, GCP
+- **Cloud Platforms:** AWS, GCP.
 - **Product Development:** Agile Methodologies, User Experience (UX) Design, Product Management
 - **DevOps:** <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" /> <img src="https://img.shields.io/badge/CircleCI-343534?style=flat&logo=circleci&logoColor=white" alt="CircleCI" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
 
