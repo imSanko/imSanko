@@ -8,7 +8,7 @@ I am a versatile engineer with a strong background in the machine learning, prod
 - **Machine Learning:** <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
 - **Deep Learning:** Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformers.
 - **Data Processing:** Pandas, NumPy, SQL, and Postgresql.
-- **Containerization:** Docker, Kubernetes
+- **Containerization:** Docker, Kubernetes.
 - **Cloud Platforms:** AWS, GCP.
 - **Product Development:** Agile Methodologies, User Experience (UX) Design, Product Management
 - **DevOps:** <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" /> <img src="https://img.shields.io/badge/CircleCI-343534?style=flat&logo=circleci&logoColor=white" alt="CircleCI" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
